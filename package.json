@@ -1,0 +1,20 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "createn youtube like web.",
+  "homepage": "https://github.com/armanahad6207/BckendProject#readme",
+  "bugs": {
+    "url": "https://github.com/armanahad6207/BckendProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armanahad6207/BckendProject.git"
+  },
+  "license": "ISC",
+  "author": "Arman Ahad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
