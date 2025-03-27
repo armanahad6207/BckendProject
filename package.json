@@ -15,9 +15,10 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon ser/index.js"
+    "dev": "nodemon ser/index.js"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
   }
 }
